@@ -1,2 +1,2 @@
 
-https://gornadan.github.io/rsschool-cv/cv
+https://gornadan.github.io/rsschool-cv/
